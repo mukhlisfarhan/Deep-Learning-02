@@ -28,5 +28,5 @@ Dataset disusun sendiri dan diupload secara lokal ke Kaggle.
 
 ## 📎 Tautan
 - 📘 Kaggle Notebook: https://www.kaggle.com/code/ahmadmukhlisfarhan/image-classification
-- 💾 GitHub Repo: [LINK_GITHUB]
+- 💾 GitHub Repo: https://github.com/mukhlisfarhan/Deep-Learning-02/tree/week04
 
