@@ -27,6 +27,6 @@ Dataset disusun sendiri dan diupload secara lokal ke Kaggle.
 - Precision / Recall: lihat laporan lengkap
 
 ## 📎 Tautan
-- 📘 Kaggle Notebook: [LINK_KAGGLE_NOTEBOOK](https://www.kaggle.com/code/ahmadmukhlisfarhan/image-classification)
+- 📘 Kaggle Notebook: (https://www.kaggle.com/code/ahmadmukhlisfarhan/image-classification)
 - 💾 GitHub Repo: [LINK_GITHUB]
 
