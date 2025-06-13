@@ -1,9 +1,9 @@
-# Klasifikasi Gambar: [Objek 1] vs [Objek 2]
+# Klasifikasi Gambar: Deoderant [Objek 1] vs Vicks VapoRub [Objek 2]
 
 Proyek ini menggunakan transfer learning dengan ResNet50 untuk mengklasifikasikan dua jenis objek: **[Objek 1]** dan **[Objek 2]**. Dataset dikumpulkan secara mandiri dengan total 200 gambar (100 per kelas), diambil dari berbagai sudut untuk meningkatkan generalisasi.
 
 ## 📁 Struktur Proyek
-- `notebook.ipynb` — Notebook utama di Kaggle
+- `week04.ipynb` — Notebook utama di Kaggle
 - `laporan.pdf` — Laporan teknis lengkap
 - `README.md` — File ini
 
