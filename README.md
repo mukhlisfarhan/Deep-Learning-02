@@ -11,7 +11,7 @@ Proyek ini menggunakan transfer learning dengan ResNet50 untuk mengklasifikasika
 Dataset disusun sendiri dan diupload secara lokal ke Kaggle.
 
 ## 🚀 Cara Menjalankan
-1. Buka [Kaggle Notebook](LINK_KAGGLE_NOTEBOOK)
+1. Buka [Kaggle Notebook](https://www.kaggle.com/code/ahmadmukhlisfarhan/notebook54fa284275/edit)
 2. Jalankan semua sel (runtime ~5-10 menit)
 3. Model akan dilatih dan divalidasi secara otomatis
 
