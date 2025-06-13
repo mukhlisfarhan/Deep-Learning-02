@@ -11,7 +11,7 @@ Proyek ini menggunakan transfer learning dengan ResNet50 untuk mengklasifikasika
 Dataset disusun sendiri dan diupload secara lokal ke Kaggle.
 
 ## 🚀 Cara Menjalankan
-1. Buka [Kaggle Notebook](https://www.kaggle.com/code/ahmadmukhlisfarhan/notebook54fa284275/edit)
+1. Buka [Kaggle Notebook](https://www.kaggle.com/code/ahmadmukhlisfarhan/image-classification)
 2. Jalankan semua sel (runtime ~5-10 menit)
 3. Model akan dilatih dan divalidasi secara otomatis
 
@@ -27,6 +27,6 @@ Dataset disusun sendiri dan diupload secara lokal ke Kaggle.
 - Precision / Recall: lihat laporan lengkap
 
 ## 📎 Tautan
-- 📘 Kaggle Notebook: [LINK_KAGGLE_NOTEBOOK]
+- 📘 Kaggle Notebook: [LINK_KAGGLE_NOTEBOOK](https://www.kaggle.com/code/ahmadmukhlisfarhan/image-classification)
 - 💾 GitHub Repo: [LINK_GITHUB]
 
