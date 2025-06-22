@@ -8,7 +8,7 @@ Klasifikasi SMS spam vs non-spam menggunakan model LSTM
 - Teks bervariasi, khas percakapan singkat
 
 ## Cara Menjalankan
-1. Buka Notebook `SpamClassifier-RNN.ipynb`
+1. Buka [Notebook](https://www.kaggle.com/code/ahmadmukhlisfarhan/klasifikasi-teks-rnn) di Kaggle.
 2. Jalankan sel berturut-turut (data sudah tersedia di Kaggle)
 3. Lihat hasil evaluasi di bagian akhir notebook
 
