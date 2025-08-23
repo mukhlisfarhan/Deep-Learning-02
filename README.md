@@ -63,7 +63,7 @@ Model ini memiliki total **10.156.864 parameter** yang dapat dilatih.
 
 Kedua model dilatih selama 10 *epoch* menggunakan *optimizer* Adam dan *CrossEntropyLoss*.
 
-| Model | Loss Latihan Akhir | PPL Latihan Akhir | Loss Validasi Akhir | PPL Validasi Akhir | Waktu per Epoch | Total Parameter |
+| Model               | Loss Latihan Akhir | PPL Latihan Akhir | Loss Validasi Akhir | PPL Validasi Akhir | Waktu per Epoch | Total Parameter |
 | :------------------ | :---------------- | :---------------- | :----------------- | :----------------- | :------------- | :-------------- |
 | RNN + Attention     | 1.154             | 3.170             | 3.604              | 36.753             | ~27s           | 31,173,952      |
 | Transformer (8000)  | 3.322             | 27.708            | 3.722              | 41.360             | ~5s            | 10,156,864      |
@@ -95,7 +95,7 @@ Hasil menunjukkan bahwa ukuran *vocabulary* 8000 dengan pelatihan 10 *epoch* mem
     pip install torch sentencepiece sacrebleu tqdm
     ```
 3.  **Siapkan dataset:**
-    Pastikan file `ind.txt` berada di direktori yang sama atau sesuaikan `DATA_PATH` dalam kode. File `ind.txt` berisi pasangan kalimat Bahasa Inggris-Indonesia. Contoh baris:
+    Unduh *file* dataset dari [https://www.manythings.org/anki/ind-eng.zip](https://www.manythings.org/anki/ind-eng.zip) dan ekstrak `ind.txt` ke direktori proyek Anda. Pastikan *file* `ind.txt` berada di direktori yang sama atau sesuaikan `DATA_PATH` dalam kode. Contoh baris dalam `ind.txt`:
     ```
     Hello.    Halo.
     How are you?    Apa kabar?
