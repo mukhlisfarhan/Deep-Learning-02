@@ -85,10 +85,10 @@ Hasil menunjukkan bahwa ukuran *vocabulary* 8000 dengan pelatihan 10 *epoch* mem
 
 ## Cara Menjalankan Proyek
 
-1.  **Clone repositori ini:**
+1.  **Clone repositori ini dan *branch* `machine_translation`:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-    cd your-repo-name
+    git clone -b machine_translation [https://github.com/mukhlisfarhan/Deep-Learning-02.git](https://github.com/mukhlisfarhan/Deep-Learning-02.git)
+    cd Deep-Learning-02
     ```
 2.  **Instal dependensi:**
     ```bash
